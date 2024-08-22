@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DemoRazorPages")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b019dea5cea044f968effb88ea5416a0b91b9ada")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3492cf9a2af7a75848393ca4704084f10f476db9")]
 [assembly: System.Reflection.AssemblyProductAttribute("DemoRazorPages")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DemoRazorPages")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

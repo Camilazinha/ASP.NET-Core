@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\camila_090122\\DemoRazorPages\\DemoRazorPages.csproj": {}
+    "C:\\Users\\camila_090122\\aa\\DemoRazorPages\\DemoRazorPages.csproj": {}
   },
   "projects": {
-    "C:\\Users\\camila_090122\\DemoRazorPages\\DemoRazorPages.csproj": {
+    "C:\\Users\\camila_090122\\aa\\DemoRazorPages\\DemoRazorPages.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\camila_090122\\DemoRazorPages\\DemoRazorPages.csproj",
+        "projectUniqueName": "C:\\Users\\camila_090122\\aa\\DemoRazorPages\\DemoRazorPages.csproj",
         "projectName": "DemoRazorPages",
-        "projectPath": "C:\\Users\\camila_090122\\DemoRazorPages\\DemoRazorPages.csproj",
+        "projectPath": "C:\\Users\\camila_090122\\aa\\DemoRazorPages\\DemoRazorPages.csproj",
         "packagesPath": "C:\\Users\\camila_090122\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\camila_090122\\DemoRazorPages\\obj\\",
+        "outputPath": "C:\\Users\\camila_090122\\aa\\DemoRazorPages\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,6 +69,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[8.0.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.4, )"
             }
           },
           "imports": [
